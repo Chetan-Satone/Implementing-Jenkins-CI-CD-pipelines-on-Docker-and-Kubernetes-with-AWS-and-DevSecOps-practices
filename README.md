@@ -75,5 +75,5 @@ After successful deployment, the web application runs securely on **AWS EKS**, e
 ### 📥 Setup Steps
 
 ## Clone the repository:
-```bash
-git clone https://github.com/Implementing Jenkins CI/CD pipelines on Docker and Kubernetes with AWS and DevSecOps practices.git
+```sh
+git clone https://github.com/Chetan-Satone/Implementing-Jenkins-CI-CD-pipelines-on-Docker-and-Kubernetes-with-AWS-and-DevSecOps-practices.git
